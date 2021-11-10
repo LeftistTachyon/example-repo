@@ -2,4 +2,4 @@ Hello from my laptop!
 
 Changes be here!
 
-This is a new feature
+This is a new feature!
